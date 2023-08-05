@@ -1,2 +1,2 @@
 # EDA_Projects
-EDA projects
+In this repository some exploratory data analysis projects.
